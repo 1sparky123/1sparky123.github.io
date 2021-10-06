@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+@import url('https://github.com/DavidG-123/DavidG-123.github.io/blob/main/White_water_rafting/sw721bci-webfont.ttf');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body{
+    background-color: #fca6c9;
+    text-align: center;
+}
+header h1{
+    color:white;
+    padding: 15px;
+    text-align: center;
+    font-family: 'roboto';
+}
+#header:hover{
+    color: black;
+    
+}
+header h2{
+    font-size: 16px;
+}
+header p{
+    font-size: 15px;
+}
+header p, h2{
+    text-align: center;
+    color:white;
+    font-size:10px;
+}
+#list{
+    text-align: left;
+    margin-left: 25%;
+    font-weight: bold;
+    font-size:12px;
+    line-height: 20px;
+    font-family:'roboto';
+}
+footer h3{
+    color:white;
+    text-align: center;
+    font-size:25px;
+    font-weight: normal;
+}
+#foot {
+    text-align: left;
+    color:black;
+    margin-left: 20%;
+    font-size: 10px;
+    font-weight: bold;
+}
+
